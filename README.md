@@ -1,2 +1,2 @@
 # IMDB-scraper
-Scraping IMDB withing Django using Beautifulsoup
+Scraping IMDB within Django using Beautifulsoup
